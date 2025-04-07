@@ -4,9 +4,9 @@
 - 💡 Apaixonada por tecnologia, inovação e tudo que envolve aprender;
 - 📘 GitHub estudantil em constante evolução;
 
-<!-- Gif Ghibli -->
+<!-- Gif Ghibli certo -->
 <div align="center">
-  <img src="https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif" width="300" alt="Chihiro estudando - Studio Ghibli">
+  <img src="https://i.pinimg.com/originals/6f/e5/c2/6fe5c2f387fb1cb607bb0d0d3e96c229.gif" width="300" alt="Chihiro estudando - Studio Ghibli">
 </div>
 
 ##
