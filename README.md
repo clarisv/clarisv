@@ -4,9 +4,9 @@
 - 💡 Apaixonada por tecnologia, inovação e tudo que envolve aprender;
 - 📘 GitHub estudantil em constante evolução;
 
-<!-- Gif estudando -->
+<!-- Gif das foligens do Studio Ghibli -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Ib0R6sdN5m7k5gk9w8/giphy.gif" width="300" alt="Personagem estudando">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdzeHFpOGltZG04NzBoMzI4ODBheHI1bW9yNWdvajNiNHB1eDRqcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dsW9sCnEb5SBtffGqC/giphy.gif" width="300" alt="Foligens do Studio Ghibli">
 </div>
 
 ##
