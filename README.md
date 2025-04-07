@@ -1,4 +1,4 @@
-### Olá, me chamo Clarice 🌻
+### Olá, me chamo Clarice 🌱
 
 - 🎓 Graduanda em Engenharia de Software;
 - 💡 Apaixonada por tecnologia, inovação e tudo que envolve aprender;
