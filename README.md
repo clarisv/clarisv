@@ -1,12 +1,12 @@
-### Olá, me chamo Clarice!🌻
+### Olá, me chamo Clarice 🌱
 
 - 🎓 Graduanda em Engenharia de Software;
 - 💡 Apaixonada por tecnologia, inovação e tudo que envolve aprender;
 - 📘 GitHub estudantil em constante evolução;
 
-<!-- Gif estudando -->
+<!-- Gif Ghibli -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Ib0R6sdN5m7k5gk9w8/giphy.gif" width="300" alt="Personagem estudando">
+  <img src="https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif" width="300" alt="Chihiro estudando - Studio Ghibli">
 </div>
 
 ##
@@ -35,3 +35,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
