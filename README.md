@@ -1,12 +1,12 @@
-### Olá, me chamo Clarice 🌱
+### Olá, me chamo Clarice 🌻
 
 - 🎓 Graduanda em Engenharia de Software;
 - 💡 Apaixonada por tecnologia, inovação e tudo que envolve aprender;
 - 📘 GitHub estudantil em constante evolução;
 
-<!-- Gif Ghibli certo -->
+<!-- Gif estudando -->
 <div align="center">
-  <img src="https://i.imgur.com/O7pBfQo.gif" width="200" alt="Foligens - Studio Ghibli">
+  <img src="https://media.giphy.com/media/Ib0R6sdN5m7k5gk9w8/giphy.gif" width="300" alt="Personagem estudando">
 </div>
 
 ##
