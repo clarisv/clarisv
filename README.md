@@ -6,7 +6,7 @@
 
 <!-- Gif Ghibli certo -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6f/e5/c2/6fe5c2f387fb1cb607bb0d0d3e96c229.gif" width="300" alt="Chihiro estudando - Studio Ghibli">
+  <img src="https://i.imgur.com/O7pBfQo.gif" width="200" alt="Foligens - Studio Ghibli">
 </div>
 
 ##
