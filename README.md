@@ -1,8 +1,8 @@
 ### Olá, me chamo Clarice 🌱
 
-- 🎓 Graduanda em Engenharia de Software;
-- 💡 Apaixonada por tecnologia, inovação e tudo que envolve aprender;
-- 📘 GitHub estudantil em constante evolução;
+- Graduanda em Engenharia de Software;
+- Apaixonada por tecnologia, inovação e tudo que envolve aprender;
+- GitHub estudantil;
 
 <!-- Gif das foligens do Studio Ghibli -->
 <div align="center">
