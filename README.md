@@ -6,16 +6,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdzeHFpOGltZG04NzBoMzI4ODBheHI1bW9yNWdvajNiNHB1eDRqcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dsW9sCnEb5SBtffGqC/giphy.gif" width="300" alt="Soot Sprites Ghibli">
 </p>
 
-### 🛠️ Minhas Tecnologias (Baseadas nos meus repositórios)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=clarisv&layout=compact&theme=radical&hide_progress=false)
-
-### 📊 Estatísticas Gerais
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=clarisv&show_icons=true&theme=radical)
-
-<br>
-
 ### 📫 Vamos nos conectar?
 
 <p align="left">
