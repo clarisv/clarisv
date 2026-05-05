@@ -3,7 +3,7 @@
 
 Seja bem-vindo ao meu GitHub! 👋
 
-Aqui você encontrará projetos acadêmicos e iniciativas pessoais. Atualmente, curso **Engenharia de Software na UCB** e foco no desenvolvimento de automações com **Python & RPA**. Meu objetivo é transformar o aprendizado acadêmico em soluções reais e evolução constante através do código.
+Aqui você encontrará projetos acadêmicos e iniciativas pessoais. Atualmente, curso **Engenharia de Software na UCB** e estou explorando automação de processos e fluxos de dados com **Python & RPA**. Meu objetivo é transformar o aprendizado acadêmico em soluções reais e evolução constante através do código. 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdzeHFpOGltZG04NzBoMzI4ODBheHI1bW9yNWdvajNiNHB1eDRqcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dsW9sCnEb5SBtffGqC/giphy.gif" width="300" alt="Soot Sprites Ghibli">
