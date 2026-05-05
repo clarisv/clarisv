@@ -1,6 +1,6 @@
 ### Olá, me chamo Clarice 🌱
 
-**Engenharia de Software** | Atualmente automatizando processos com **Python & RPA**. Transformando aprendizado acadêmico em código e evolução constante.
+Sejá bem-vindo ao meu **GitHub estudantil!** aqui você vai encontrar algumas atividades simples academicas e projetos pessoais. Estou cursando **Engenharia de Software** na **UCB** | Atualmente automatizando processos com **Python & RPA**. Transformando aprendizado acadêmico em código e evolução constante.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdzeHFpOGltZG04NzBoMzI4ODBheHI1bW9yNWdvajNiNHB1eDRqcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dsW9sCnEb5SBtffGqC/giphy.gif" width="300" alt="Soot Sprites Ghibli">
