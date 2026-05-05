@@ -1,6 +1,7 @@
 ### Olá, eu me chamo Clarice 🌱
 
-**Seja bem-vindo ao meu GitHub! 👋**
+
+Seja bem-vindo ao meu GitHub! 👋
 
 Aqui você encontrará projetos acadêmicos e iniciativas pessoais. Atualmente, curso **Engenharia de Software na UCB** e foco no desenvolvimento de automações com **Python & RPA**. Meu objetivo é transformar o aprendizado acadêmico em soluções reais e evolução constante através do código.
 
