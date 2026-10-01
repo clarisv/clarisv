@@ -27,6 +27,7 @@ em Projetos & Inovação, onde aplico essas competências em contexto real.
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Verificador Fiscal](https://github.com/clarisv/VERIFICADOR-FISCAL) | RPA para conferência automática de documentos fiscais — leitura de PDF, cruzamento com Excel e interface gráfica | Python · pdfplumber · openpyxl · CustomTkinter |
+| [MoneyWise](https://github.com/anetef/MoneyWise) | App de finanças pessoais e colaborativas com metas em grupo e Termômetro em tempo real (TCC, em equipe) | React Native · Expo · TypeScript · Java · Spring Boot · PostgreSQL · Docker |
 
 ---
 
